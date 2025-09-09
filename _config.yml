@@ -4,7 +4,7 @@ baseurl: "" # keep this empty unless the site is in a subfolder
 url: "https://dominik-willaford.github.io"
 
 # Theme (choose one of GitHub Pages supported themes)
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 # Build settings
 markdown: kramdown

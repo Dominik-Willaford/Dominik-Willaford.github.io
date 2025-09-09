@@ -1,76 +1,70 @@
-# SqlShield Consulting — Website
+# SqlShield Consulting
 
-This repository contains the source code for my consulting website, hosted on **GitHub Pages**. The site presents my services around **.NET, SQL optimization, automated testing, and legacy modernization** with a focus on manufacturing and state government clients.
+## 👨‍💻 Experience
+I am **Dominik Willaford**, a backend and full‑stack .NET developer with over **7 years of professional experience**. I have worked extensively in **manufacturing** and **state government**, where I saw common challenges:
+- Massive SQL query boilerplate slowing development.
+- Legacy .NET applications that are hard to maintain.
+- Inefficient workflows that create user errors and delays.
 
----
-
-## 🚀 Features
-- **Hero Section** with clear value proposition and CTAs.
-- **Services**: Productized consulting offers:
-  - SQL Efficiency Boost ($3,000)
-  - Testing Accelerator ($6,000)
-  - Legacy Modernization (from $15,000)
-- **About Section**: Background, industry experience, and open‑source contributions (SqlShield).
-- **Approach Section**: How I work, emphasizing pragmatic automated tests.
-- **Contact Section**: Free consultation booking via Calendly or email.
-- **Resources**: Links to SqlShield and placeholder guides/case studies.
-- **Mobile‑friendly, responsive design**.
+**What I bring:**
+- Deep .NET backend and full‑stack expertise.
+- SQL query optimization and boilerplate reduction.
+- Legacy modernization strategies.
+- Workflow improvements and error‑prevention practices.
+- Open‑source contributions, including the creation of **SqlShield**.
 
 ---
 
-## 📦 Structure
-- `index.html` — main static page, styled with embedded CSS and minimal JS.
-- Uses only vanilla HTML/CSS, no external dependencies.
-- JSON‑LD metadata for search engines and rich snippets.
+## 🛠️ What SqlShield Provides
+[SqlShield](https://github.com/Dominik-Willaford/SqlShield) is an open‑source project I created to:
+- Reduce boilerplate in SQL queries.
+- Improve object mapping for .NET applications.
+- Increase developer productivity by focusing on logic, not plumbing.
+- Help teams build cleaner, more maintainable code.
+
+SqlShield is a tool I use in consulting engagements to deliver faster results and long‑term maintainability.
 
 ---
 
-## 🔧 How to Run Locally
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
-   ```
-2. Open `index.html` in your browser.
+## 💼 Services & Pricing
+I offer predictable, fixed‑price consulting packages:
+
+### 1. SQL Efficiency Boost — **$8,000**
+- Review and streamline database schemas and query mappings.
+- Apply conventions to reduce boilerplate.
+- Deliver improvements in 2–3 weeks.
+
+### 2. Legacy Modernization — **$15,000+**
+- Full audit of .NET and SQL stack.
+- Create a performance and modernization roadmap.
+- Refactor key areas to improve maintainability.
+- Provide training and handoff to internal teams.
 
 ---
 
-## 🌐 Deploying on GitHub Pages
-1. Push this repo to GitHub.
-2. In **Settings → Pages**, set the branch to `main` (or `gh-pages`) and root folder.
-3. Your site will be available at:
-   ```
-   https://<your-username>.github.io/
-   ```
+## 🤝 Why Choose Me
+- **Industry Expertise**: I understand the unique challenges of manufacturing and state government IT environments.
+- **Proven Efficiency**: My work with SqlShield and SQL optimization directly reduces development time and errors.
+- **Full‑Stack Capability**: From backend to frontend, I can deliver end‑to‑end solutions.
+- **Clear Value**: Fixed‑price packages give predictable outcomes without scope creep.
 
 ---
 
-## 🔗 Customization
-- **Meta tags**: Update description and Open Graph tags in the `<head>`.
-- **Calendly link**: Replace the placeholder URL in the Contact section.
-- **Email**: Update the `mailto:` link with your own.
-- **LinkedIn**: Replace the placeholder LinkedIn URL in the footer and JSON‑LD.
-- **Social card / favicon**: Add your own `social-card.png` and `favicon.ico`.
+## 📅 Book a Consultation
+Clients can book an appointment easily through Calendly:
 
----
-
-## 📚 Roadmap
-- Add blog posts / case studies under `/blog`.
-- Publish a case study: *“Cutting SQL Boilerplate by 50%”*.
-- Publish a guide: *“Pragmatic Automated Tests for .NET”*.
-- Add privacy‑friendly analytics (e.g., Plausible).
+👉 [Schedule a Consultation](https://calendly.com/dwillaford88/30min)
 
 ---
 
 ## 🧑‍💻 Author
 **Dominik Willaford**  
-Backend & full‑stack .NET engineer, 7+ years of experience.  
-Focus: SQL optimization, automated testing, and legacy modernization.
+Helping manufacturing & government teams modernize .NET applications with **SQL efficiency** and **legacy refactoring**.
 
-- LinkedIn: [Connect with me](https://www.linkedin.com/)
-- Project: [SqlShield on GitHub](https://github.com/Dominik-Willaford/SqlShield)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/dominik-willaford/)
+- Open Source: [SqlShield on GitHub](https://github.com/Dominik-Willaford/SqlShield)
 
 ---
 
 ## 📜 License
-This website’s source code is released under the MIT License. Content (copy, images, etc.) © Dominik Willaford.
+© 2025 Dominik Willaford. All rights reserved.

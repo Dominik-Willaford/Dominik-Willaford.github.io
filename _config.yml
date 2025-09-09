@@ -1,2 +1,10 @@
-theme: jekyll-theme-minimal
-title: Dominik Willaford Consulting
+title: SqlShield Consulting
+description: "Consulting services for .NET, SQL optimization, and legacy modernization."
+baseurl: "" # keep this empty unless the site is in a subfolder
+url: "https://dominik-willaford.github.io"
+
+# Theme (choose one of GitHub Pages supported themes)
+theme: jekyll-theme-cayman
+
+# Build settings
+markdown: kramdown

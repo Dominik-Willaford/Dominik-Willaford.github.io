@@ -1,7 +1,7 @@
-title: SqlShield Consulting
+title: Willaford Consulting
 description: "Consulting services for .NET, SQL optimization, and legacy modernization."
 baseurl: "" # keep this empty unless the site is in a subfolder
-url: "https://dominik-willaford.github.io"
+url: "https://willafordconsulting.com/"
 
 # Theme (choose one of GitHub Pages supported themes)
 theme: jekyll-theme-cayman

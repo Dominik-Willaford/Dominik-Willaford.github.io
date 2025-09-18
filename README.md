@@ -1,70 +1,65 @@
-# SqlShield Consulting
+# Willaford Consulting
 
-## 👨‍💻 Experience
-I am **Dominik Willaford**, a backend and full‑stack .NET developer with over **7 years of professional experience**. I have worked extensively in **manufacturing** and **state government**, where I saw common challenges:
-- Massive SQL query boilerplate slowing development.
-- Legacy .NET applications that are hard to maintain.
-- Inefficient workflows that create user errors and delays.
+## Streamline Your .NET + SQL Development
+Cut boilerplate, boost productivity, and deliver faster.
 
-**What I bring:**
-- Deep .NET backend and full‑stack expertise.
-- SQL query optimization and boilerplate reduction.
-- Legacy modernization strategies.
-- Workflow improvements and error‑prevention practices.
-- Open‑source contributions, including the creation of **SqlShield**.
+I’m **Dominik Willaford**, creator of [SqlShield](https://github.com/Dominik-Willaford/SqlShield) and a .NET consultant with 7+ years of experience in manufacturing, insurance, and state government projects.
 
----
+[Book a Free Consultation]([https://calendly.com](https://calendly.com/dwillaford88/30min))
 
-## 🛠️ What SqlShield Provides
-[SqlShield](https://github.com/Dominik-Willaford/SqlShield) is an open‑source project I created to:
-- Reduce boilerplate in SQL queries.
-- Improve object mapping for .NET applications.
-- Increase developer productivity by focusing on logic, not plumbing.
-- Help teams build cleaner, more maintainable code.
+## 🚀 Services
 
-SqlShield is a tool I use in consulting engagements to deliver faster results and long‑term maintainability.
+### **SQL/.NET Codebase Audit**
+- 1–2 week engagement  
+- Review your data access layer  
+- Identify performance bottlenecks, risks, and boilerplate issues  
+- Deliver a written action plan  
 
----
+*From $5,000*
 
-## 💼 Services & Pricing
-I offer predictable, fixed‑price consulting packages:
+### **SqlShield Integration**
+- Hands-on integration of [SqlShield](https://www.nuget.org/packages/SqlShield/) into your stack  
+- Convention-based mapping setup  
+- Developer training & knowledge transfer  
+- Increased developer velocity and consistency  
 
-### 1. SQL Efficiency Boost — **$8,000**
-- Review and streamline database schemas and query mappings.
-- Apply conventions to reduce boilerplate.
-- Deliver improvements in 2–3 weeks.
+*From $15,000*
 
-### 2. Legacy Modernization — **$15,000+**
-- Full audit of .NET and SQL stack.
-- Create a performance and modernization roadmap.
-- Refactor key areas to improve maintainability.
-- Provide training and handoff to internal teams.
+## 🛠 Projects & Tools
 
----
+### [SqlShield](https://github.com/Dominik-Willaford/SqlShield)
+A lightweight, developer-friendly .NET library that eliminates boilerplate when calling stored procedures with Dapper.  
 
-## 🤝 Why Choose Me
-- **Industry Expertise**: I understand the unique challenges of manufacturing and state government IT environments.
-- **Proven Efficiency**: My work with SqlShield and SQL optimization directly reduces development time and errors.
-- **Full‑Stack Capability**: From backend to frontend, I can deliver end‑to‑end solutions.
-- **Clear Value**: Fixed‑price packages give predictable outcomes without scope creep.
+- **Convention-based mapping**: `snake_case`/`kebab-case` → C# POCOs  
+- **One-liner stored procedure execution**  
+- **Dependency Injection integration**  
 
----
+```csharp
+await _sprocs.ExecuteNonQueryAsync(
+    "usp_order_update_status",
+    "DefaultConnection",
+    new { order_id = 42, new_status = "complete" }
+);
+```
 
-## 📅 Book a Consultation
-Clients can book an appointment easily through Calendly:
+## 📦 Available on NuGet
+Need help implementing SqlShield in production? [Hire me]([https://calendly.com](https://calendly.com/dwillaford88/30min))
 
-👉 [Schedule a Consultation](https://calendly.com/dwillaford88/30min)
+## 👨‍💻 About
 
----
+I’m a full-stack .NET consultant with over 7 years of experience delivering enterprise-grade software solutions.
 
-## 🧑‍💻 Author
-**Dominik Willaford**  
-Helping manufacturing & government teams modernize .NET applications with **SQL efficiency** and **legacy refactoring**.
+- Designed modernization initiatives in manufacturing and government systems
 
+- Specialized in .NET, SQL Server, Dapper, and system performance
+
+- Creator of SqlShield
+
+Let’s work together to modernize your data access layer and help your team ship faster with cleaner, more maintainable code.
+
+## 📩 Contact
+- [Book a call]([https://calendly.com](https://calendly.com/dwillaford88/30min))
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/dominik-willaford/)
-- Open Source: [SqlShield on GitHub](https://github.com/Dominik-Willaford/SqlShield)
-
----
 
 ## 📜 License
 © 2025 Dominik Willaford. All rights reserved.

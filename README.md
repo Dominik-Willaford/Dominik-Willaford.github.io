@@ -53,7 +53,7 @@ await _sprocs.ExecuteNonQueryAsync(
     new { order_id = 42, new_status = "complete" }
 );
 ```
-Need help implementing SqlShield in production? [Hire me]([https://calendly.com](https://calendly.com/dwillaford88/30min))
+Need help implementing SqlShield in production? [Hire me](https://calendly.com/dwillaford88/30min)
 
 ## 👨‍💻 About
 

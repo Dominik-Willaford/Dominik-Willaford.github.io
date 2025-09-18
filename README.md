@@ -69,7 +69,7 @@ I specialize in .NET, SQL Server, Dapper, naming conventions, and developer prod
 Let’s work together to modernize your data access layer and help your team ship faster with cleaner, more maintainable code.
 
 ## 📩 Contact
-- [Book a call]([https://calendly.com](https://calendly.com/dwillaford88/30min))
+- [Book a call](https://calendly.com/dwillaford88/30min)
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/dominik-willaford/)
 
 ## 📜 License
